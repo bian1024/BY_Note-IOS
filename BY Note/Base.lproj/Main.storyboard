@@ -132,7 +132,7 @@
                                 <rect key="frame" x="192" y="500" width="95" height="50"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="1" green="0.5" blue="0.0" alpha="0.69679797539999999" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="s'inscrire">
+                                <state key="normal" title="inscrire">
                                     <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
